@@ -4,7 +4,7 @@
 	<title>TODO</title>
 </head>
 <body>	
-
+ <!--add new items-->
 	<input type="text" id="new_list_item">
 	<button onclick="addItem()">Add Item</button>
 <!-- 1.create a list-->
@@ -34,6 +34,5 @@
 		</script>
 	</ul>
 </div>
-<!--4.add items to the list-->
 </body>
 </html>
